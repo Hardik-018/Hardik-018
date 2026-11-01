@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **C,C++**
 - 📖 Currently Studying Data Mining & Machine Learning 
 
-<!-- - 💬 Ask me about **C, C++, DSA**
  -->
 - 📫 How to reach me **hardikpareek21@gmail.com**
 
