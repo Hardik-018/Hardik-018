@@ -1,16 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Hardik Pareek</h1>
 
 <h3 align="center">MBA Finance & Data Science and AI | Amity University Rajasthan</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hardik-018&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hardik-018&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
-  </a>
 </p>
 
 ---
