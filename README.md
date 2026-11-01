@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Pursuing MBA in Finance & Data Science and AI at Amity University Rajasthan.
-- 📊 Interested in Financial Analysis, MIS Reporting and Data Analytics.
+- 📊 Interested in Financial Analysis and Data Analytics.
 - 🤖 Exploring Artificial Intelligence, Machine Learning and Data Mining.
 - 💻 Currently learning C and C++.
 - 📈 Interested in transforming raw data into meaningful business and financial insights.
@@ -26,7 +26,7 @@
 
 ### 🛠️ Skills & Technologies
 
-- 📊 **Finance:** Financial Analysis, Microsoft Excel, MIS Reporting.
+- 📊 **Finance:** Financial Analysis, Microsoft Excel.
 - 💻 **Programming:** Python, C, C++.
 - 🤖 **AI & Data:** Google Gemini API, Machine Learning, Data Mining, BM25, Gradio.
 
