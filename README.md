@@ -56,8 +56,8 @@ An AI-powered study assistant built using Python, Google Gemini API, BM25 Inform
 ### 📫 How to Reach Me
 
 - 📧 Email: **hardikpareek21@gmail.com**
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/04-hardik-pareek/" target="_blank">Connect with me on LinkedIn</a>
 - 💻 GitHub: <a href="https://github.com/Hardik-018">Hardik-018</a>
-
 ---
 
 <p align="center">
